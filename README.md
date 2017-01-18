@@ -20,3 +20,14 @@ Te esperamos!
 
 Contamos con tu presencia en nuestras iniciativas!
 ¡Muchas gracias!
+
+---
+## Compilacion:
+
+```git clone https://github.com/JuncoTIC/Parser_ini_c.git```
+
+```cd parser/src/```
+
+```make```
+
+```../bin/parser config.ini```
