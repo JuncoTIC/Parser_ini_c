@@ -12,7 +12,6 @@ Te esperamos!
 
 * Blog: http://juncotic.com/blog
 * Cursos: http://juncotic.com/cursos
-
 * Facebook: https://facebook.com/juncotic
 * Twitter: https://twitter.com/juncotic
 * Google+: https://plus.google.com/+Juncotic
