@@ -1,4 +1,4 @@
-#Blog
+# JuncoTIC Blog - Ejemplo de parsing de archivos INI en C con IniParser
 Códigos y contenido adicional de artículos de blog
 
 Este código completa la info expuesta en nuestro artículo del Blog.
