@@ -26,8 +26,8 @@ Contamos con tu presencia en nuestras iniciativas!
 
 ```git clone https://github.com/JuncoTIC/Parser_ini_c.git```
 
-```cd parser/src/```
-
-```make```
-
-```../bin/parser config.ini```
+```
+cd parser/src/
+make
+../bin/parser config.ini
+```
